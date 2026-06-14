@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthmishra/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
