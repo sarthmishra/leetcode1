@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthmishra/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sarthmishra/leetcode1/tree/master/0155-min-stack) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sarthmishra/leetcode1/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
