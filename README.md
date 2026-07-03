@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/sarthmishra/leetcode1/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthmishra/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarthmishra/leetcode1/tree/master/0155-min-stack) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
