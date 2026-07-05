@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
