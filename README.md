@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sarthmishra/leetcode1/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
@@ -153,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
