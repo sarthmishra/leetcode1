@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarthmishra/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/sarthmishra/leetcode1/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sarthmishra/leetcode1/tree/master/0682-baseball-game) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
