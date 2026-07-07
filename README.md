@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sarthmishra/leetcode1/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
