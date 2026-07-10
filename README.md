@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarthmishra/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
