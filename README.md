@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthmishra/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Stack
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
