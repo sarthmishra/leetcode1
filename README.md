@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 ## Array
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 ## Hash Table
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
