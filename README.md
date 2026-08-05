@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthmishra/leetcode1/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sarthmishra/leetcode1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthmishra/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sarthmishra/leetcode1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sarthmishra/leetcode1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthmishra/leetcode1/tree/master/0035-search-insert-position) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarthmishra/leetcode1/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting Sort
