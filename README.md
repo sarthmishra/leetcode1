@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sarthmishra/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sarthmishra/leetcode1/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sarthmishra/leetcode1/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
