@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sarthmishra/leetcode1/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sarthmishra/leetcode1/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/sarthmishra/leetcode1/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sarthmishra/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthmishra/leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarthmishra/leetcode1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthmishra/leetcode1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarthmishra/leetcode1/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
 | ------- |
