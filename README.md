@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sarthmishra/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sarthmishra/leetcode1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sarthmishra/leetcode1/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthmishra/leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sarthmishra/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sarthmishra/leetcode1/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthmishra/leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
