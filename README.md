@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sarthmishra/leetcode1/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarthmishra/leetcode1/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sarthmishra/leetcode1/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sarthmishra/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sarthmishra/leetcode1/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
