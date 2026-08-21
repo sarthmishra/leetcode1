@@ -3,12 +3,10 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
 
-        int i = 0;
         int sum = 0;
-        while(i < n){
+        for(int i = 0; i < n; i++){
             sum += nums[i];
             ans[i] = sum;
-            i++;
         }
         
             
