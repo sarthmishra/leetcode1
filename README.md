@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/sarthmishra/leetcode1/tree/master/1572-matrix-diagonal-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthmishra/leetcode1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthmishra/leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sarthmishra/leetcode1/tree/master/3731-find-missing-elements) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sarthmishra/leetcode1/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
