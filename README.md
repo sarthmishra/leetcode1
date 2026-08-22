@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sarthmishra/leetcode1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sarthmishra/leetcode1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sarthmishra/leetcode1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarthmishra/leetcode1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sarthmishra/leetcode1/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sarthmishra/leetcode1/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/sarthmishra/leetcode1/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sarthmishra/leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthmishra/leetcode1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
