@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthmishra/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sarthmishra/leetcode1/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -294,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthmishra/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -449,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sarthmishra/leetcode1/tree/master/0278-first-bad-version) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
