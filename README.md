@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sarthmishra/leetcode1/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sarthmishra/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sarthmishra/leetcode1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sarthmishra/leetcode1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
