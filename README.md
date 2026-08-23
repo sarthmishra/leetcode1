@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarthmishra/leetcode1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/sarthmishra/leetcode1/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthmishra/leetcode1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sarthmishra/leetcode1/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/sarthmishra/leetcode1/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthmishra/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sarthmishra/leetcode1/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthmishra/leetcode1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
