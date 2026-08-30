@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sarthmishra/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/sarthmishra/leetcode1/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sarthmishra/leetcode1/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0229-majority-element-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 ## Euclidean Algorithm
 |  |
@@ -532,5 +536,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
