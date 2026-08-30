@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/sarthmishra/leetcode1/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -527,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0334-increasing-triplet-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
