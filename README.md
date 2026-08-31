@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/sarthmishra/leetcode1/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/sarthmishra/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/sarthmishra/leetcode1/tree/master/1768-merge-strings-alternately) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/sarthmishra/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarthmishra/leetcode1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/sarthmishra/leetcode1/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarthmishra/leetcode1/tree/master/1051-height-checker) |
