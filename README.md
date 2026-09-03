@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sarthmishra/leetcode1/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sarthmishra/leetcode1/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthmishra/leetcode1/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/sarthmishra/leetcode1/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthmishra/leetcode1/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sarthmishra/leetcode1/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/sarthmishra/leetcode1/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/sarthmishra/leetcode1/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthmishra/leetcode1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/sarthmishra/leetcode1/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
