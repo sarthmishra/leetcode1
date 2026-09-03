@@ -7,6 +7,7 @@ class Solution {
                 nums[write] = nums[i];
                 write++;
             }
+            
         }
         return write;
     }
