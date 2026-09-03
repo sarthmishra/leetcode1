@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthmishra/leetcode1/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sarthmishra/leetcode1/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sarthmishra/leetcode1/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sarthmishra/leetcode1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthmishra/leetcode1/tree/master/0219-contains-duplicate-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sarthmishra/leetcode1/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sarthmishra/leetcode1/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sarthmishra/leetcode1/tree/master/0415-add-strings) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthmishra/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quicksort
 |  |
@@ -576,4 +580,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sarthmishra/leetcode1/tree/master/0206-reverse-linked-list) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
