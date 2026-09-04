@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/sarthmishra/leetcode1/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sarthmishra/leetcode1/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarthmishra/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sarthmishra/leetcode1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthmishra/leetcode1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
