@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sarthmishra/leetcode1/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sarthmishra/leetcode1/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthmishra/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthmishra/leetcode1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/sarthmishra/leetcode1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sarthmishra/leetcode1/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/2553-separate-the-digits-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthmishra/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/sarthmishra/leetcode1/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthmishra/leetcode1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthmishra/leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sarthmishra/leetcode1/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthmishra/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthmishra/leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthmishra/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/sarthmishra/leetcode1/tree/master/3731-find-missing-elements) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sarthmishra/leetcode1/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthmishra/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sarthmishra/leetcode1/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sarthmishra/leetcode1/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Union-Find
 |  |
 | ------- |
