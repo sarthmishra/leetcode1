@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarthmishra/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthmishra/leetcode1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0392-is-subsequence) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarthmishra/leetcode1/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sarthmishra/leetcode1/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sarthmishra/leetcode1/tree/master/0263-ugly-number) |
@@ -600,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
