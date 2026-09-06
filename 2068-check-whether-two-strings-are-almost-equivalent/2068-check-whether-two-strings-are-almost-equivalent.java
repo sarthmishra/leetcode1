@@ -1,15 +1,14 @@
 class Solution {
     public boolean checkAlmostEquivalent(String word1, String word2) {
-        
-        int[] freq = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
         for(char c : word1.toCharArray()){
-            freq[c - 'a']++;
+            map.put(c, map.getOrDefault(c,0)+1);
         }
         for(char c : word2.toCharArray()){
-            freq[c - 'a']--;
+            map.put(c, map.getOrDefault(c,0)-1);
         }
-        for(int i = 0; i < freq.length; i++){
-            if(Math.abs(freq[i]) > 3){
+        for(int val : map.values()){
+            if(Math.abs(val) > 3){
                 return false;
             }
         }
