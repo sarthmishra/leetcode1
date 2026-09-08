@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/sarthmishra/leetcode1/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthmishra/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarthmishra/leetcode1/tree/master/0575-distribute-candies) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sarthmishra/leetcode1/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sarthmishra/leetcode1/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sarthmishra/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
