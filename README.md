@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/sarthmishra/leetcode1/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/sarthmishra/leetcode1/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthmishra/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/sarthmishra/leetcode1/tree/master/0575-distribute-candies) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sarthmishra/leetcode1/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/sarthmishra/leetcode1/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarthmishra/leetcode1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/sarthmishra/leetcode1/tree/master/0853-car-fleet) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sarthmishra/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthmishra/leetcode1/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/sarthmishra/leetcode1/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
