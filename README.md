@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthmishra/leetcode1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/sarthmishra/leetcode1/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthmishra/leetcode1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sarthmishra/leetcode1/tree/master/2300-successful-pairs-of-spells-and-potions) |
