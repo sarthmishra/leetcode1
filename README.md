@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2390-removing-stars-from-a-string](https://github.com/sarthmishra/leetcode1/tree/master/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/sarthmishra/leetcode1/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthmishra/leetcode1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/sarthmishra/leetcode1/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2833-furthest-point-from-origin](https://github.com/sarthmishra/leetcode1/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/sarthmishra/leetcode1/tree/master/3866-first-unique-even-element) |
 ## Quickselect
 |  |
