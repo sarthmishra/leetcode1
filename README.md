@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sarthmishra/leetcode1/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sarthmishra/leetcode1/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthmishra/leetcode1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sarthmishra/leetcode1/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sarthmishra/leetcode1/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sarthmishra/leetcode1/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sarthmishra/leetcode1/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthmishra/leetcode1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
+| [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2833-furthest-point-from-origin](https://github.com/sarthmishra/leetcode1/tree/master/2833-furthest-point-from-origin) |
