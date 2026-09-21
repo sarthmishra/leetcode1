@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/sarthmishra/leetcode1/tree/master/1927-sum-game) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sarthmishra/leetcode1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/sarthmishra/leetcode1/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/sarthmishra/leetcode1/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthmishra/leetcode1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarthmishra/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sarthmishra/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/sarthmishra/leetcode1/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sarthmishra/leetcode1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthmishra/leetcode1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthmishra/leetcode1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sarthmishra/leetcode1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sarthmishra/leetcode1/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sarthmishra/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthmishra/leetcode1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/sarthmishra/leetcode1/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sarthmishra/leetcode1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2833-furthest-point-from-origin](https://github.com/sarthmishra/leetcode1/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/sarthmishra/leetcode1/tree/master/3866-first-unique-even-element) |
 ## Quickselect
