@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthmishra/leetcode1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthmishra/leetcode1/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sarthmishra/leetcode1/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sarthmishra/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarthmishra/leetcode1/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sarthmishra/leetcode1/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/sarthmishra/leetcode1/tree/master/3866-first-unique-even-element) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sarthmishra/leetcode1/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sarthmishra/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/sarthmishra/leetcode1/tree/master/2485-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sarthmishra/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/sarthmishra/leetcode1/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sarthmishra/leetcode1/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarthmishra/leetcode1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthmishra/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sarthmishra/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarthmishra/leetcode1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sarthmishra/leetcode1/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthmishra/leetcode1/tree/master/3875-construct-uniform-parity-array-i) |
