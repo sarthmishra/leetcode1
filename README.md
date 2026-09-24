@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarthmishra/leetcode1/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/sarthmishra/leetcode1/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sarthmishra/leetcode1/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Breadth-First Search
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthmishra/leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sarthmishra/leetcode1/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sarthmishra/leetcode1/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sarthmishra/leetcode1/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sarthmishra/leetcode1/tree/master/0415-add-strings) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sarthmishra/leetcode1/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sarthmishra/leetcode1/tree/master/0231-power-of-two) |
 ## Primality Test
 |  |
 | ------- |
