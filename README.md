@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sarthmishra/leetcode1/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthmishra/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthmishra/leetcode1/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/sarthmishra/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthmishra/leetcode1/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sarthmishra/leetcode1/tree/master/0506-relative-ranks) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sarthmishra/leetcode1/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sarthmishra/leetcode1/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sarthmishra/leetcode1/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthmishra/leetcode1/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthmishra/leetcode1/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sarthmishra/leetcode1/tree/master/1588-sum-of-all-odd-length-subarrays) |
