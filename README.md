@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sarthmishra/leetcode1/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sarthmishra/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/sarthmishra/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sarthmishra/leetcode1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/sarthmishra/leetcode1/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/sarthmishra/leetcode1/tree/master/1592-rearrange-spaces-between-words) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthmishra/leetcode1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sarthmishra/leetcode1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/sarthmishra/leetcode1/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/sarthmishra/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sarthmishra/leetcode1/tree/master/1207-unique-number-of-occurrences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sarthmishra/leetcode1/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/sarthmishra/leetcode1/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sarthmishra/leetcode1/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/sarthmishra/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sarthmishra/leetcode1/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/sarthmishra/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthmishra/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
