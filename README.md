@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sarthmishra/leetcode1/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sarthmishra/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sarthmishra/leetcode1/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarthmishra/leetcode1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/sarthmishra/leetcode1/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/sarthmishra/leetcode1/tree/master/0821-shortest-distance-to-a-character) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthmishra/leetcode1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sarthmishra/leetcode1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sarthmishra/leetcode1/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sarthmishra/leetcode1/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sarthmishra/leetcode1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
