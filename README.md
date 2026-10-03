@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthmishra/leetcode1/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sarthmishra/leetcode1/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/sarthmishra/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sarthmishra/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarthmishra/leetcode1/tree/master/0075-sort-colors) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sarthmishra/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthmishra/leetcode1/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthmishra/leetcode1/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/sarthmishra/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sarthmishra/leetcode1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthmishra/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthmishra/leetcode1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sarthmishra/leetcode1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/sarthmishra/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sarthmishra/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/sarthmishra/leetcode1/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sarthmishra/leetcode1/tree/master/1572-matrix-diagonal-sum) |
