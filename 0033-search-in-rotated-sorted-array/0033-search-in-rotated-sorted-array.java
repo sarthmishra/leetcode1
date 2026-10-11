@@ -1,25 +1,23 @@
 class Solution {
     public int search(int[] nums, int target) {
         int n = nums.length;
-        int low = 0;
-        int high = n -1;
-        while(low <= high){
-            int mid = low + (high - low)/2;
-            if(nums[mid] == target){
-                return mid;
-            }
-            if(nums[low] <= nums[mid]){
-                if(nums[low] <= target && target < nums[mid]){
-                    high = mid - 1;
-                }else{
-                    low = mid + 1;
+
+        int[] copy = nums.clone();
+        Arrays.sort(copy);
+        int left = 0;
+        int right = n-1;
+        while(left <= right){
+            int mid = left + (right - left)/2;
+            if(copy[mid] == target){
+                for(int i = 0; i < nums.length; i++){
+                    if(nums[i] == target){
+                        return i;
+                    }
                 }
+            }if(target < copy[mid]){
+                right = mid - 1;
             }else{
-                if(nums[mid] < target && target <= nums[high]){
-                    low = mid + 1;
-                }else{
-                    high = mid - 1;
-                }
+                left = mid + 1;
             }
         }
         return -1;
